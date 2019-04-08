@@ -1,7 +1,7 @@
 
 
 
-![](data-viz-talkingdata.gif)
+![](data-viz.gif)
 
 #Dependencies
 
